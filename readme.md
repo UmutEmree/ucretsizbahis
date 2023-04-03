@@ -1,4 +1,1 @@
-# Multi-User Authentication Tutorail
-
-_Produced by DevMarketer_
-# ucretsizbahis
+Advertising platform for online betting sites
